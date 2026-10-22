@@ -48,8 +48,4 @@ openpyxl
 pypdf
 python-docx
 pytest
-streamlit
-pandas
 scikit-learn
-matplotlib
-numpy
