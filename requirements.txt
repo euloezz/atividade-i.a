@@ -1,26 +1,9 @@
-django
-flask
-fastapi
-uvicorn
 numpy
 pandas
 scipy
-polars
-dask
-sympy
 scikit-learn
-tensorflow
-torch
-keras
-transformers
-xgboost
-lightgbm
-catboost
-nltk
-spacy
 matplotlib
 seaborn
 plotly
-bokeh
 streamlit
 
