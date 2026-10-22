@@ -48,4 +48,3 @@ openpyxl
 pypdf
 python-docx
 pytest
-scikit-learn
